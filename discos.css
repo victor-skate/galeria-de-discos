@@ -1,0 +1,92 @@
+.home{
+	background-image:url("fundo.jpg");
+	background-size:cover;
+}
+
+.jumbotron{
+background-image:url("disco2.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+margin:0px;
+margin-bottom:5px;
+font-size:40px;
+font-style: italic;
+color:white;
+}
+
+.card-header{
+background-color:#a52a2a;
+color:white;
+}
+
+.card-footer{
+background-color:#a52a2a;
+}
+
+
+.jumbotron.jumbotron-fluid.gil{
+background-image:url("cabeçalhoGil.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+margin-bottom: 10px;
+font-size:60px;
+color:white;
+font-family:calibri;
+font-style:oblique;
+}
+
+
+.card-header.header-universal{
+background-color:#a52a2a;
+text-align: center;
+background:black;
+font-size:40px;
+}
+
+.card-footer.footer-universal{
+background-color:black;
+}
+
+.jumbotron.jumbotron-fluid.ivan{
+background-image:url("cabeçalhoIvan.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+margin-bottom: 10px;
+font-size:60px;
+color:white;
+font-family:calibri;
+font-style:oblique;
+}
+
+.jumbotron.jumbotron-fluid.bosco{
+background-image:url("cabeçalhoBosco.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+margin-bottom: 10px;
+font-size:60px;
+color:white;
+font-family:calibri;
+font-style:oblique;
+}
+
+.jumbotron.jumbotron-fluid.caetano{
+background-image:url("cabeçalhoCaetano.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+margin-bottom: 10px;
+font-size:60px;
+color:white;
+font-family:calibri;
+font-style:oblique;
+}
+
+.jumbotron.jumbotron-fluid.djavan{
+background-image:url("cabeçalhoDjavan.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+margin-bottom: 10px;
+font-size:60px;
+color:white;
+font-family:calibri;
+font-style:oblique;
+}
